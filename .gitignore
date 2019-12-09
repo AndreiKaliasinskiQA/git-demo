@@ -3,3 +3,4 @@ file.log
 *.log
 /target
 /bin
+*.xls
